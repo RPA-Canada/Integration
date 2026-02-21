@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UQ_AzWpqqkmbnlMbZiv1Dg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="36e2b68d-9d9a-4a1f-b94b-ef5770d3be90" CvElementArea="823, 251, 356, 66" CvTextArea="882, 274, 241, 25" CvTextArgument="Apply For New Account" CvType="Button" DesignTimeRectangle="827, 253, 352, 61" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Apply For New Account ' tag='DIV' /&gt;" Guid="3127bf01-df75-435d-9594-32df3b11661c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9816f8200325516ab9261e085df6e088.jpg" xmlns="">0qmzQ-A3wFkmUF_xnxNm0Lg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+﻿[
+	{
+		"Name": "URL",
+		"Asset": "UiBankURL",
+		"OrchestratorAssetFolder": "Shared",
+		"Description": "Asset 1 contains asset data information"
+	},
+]
