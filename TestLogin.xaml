@@ -104,7 +104,7 @@
           <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:LogMessage DisplayName="Run GivenMessage" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Run Given&quot;]">
+      <ui:LogMessage DisplayName="Run GivenMessage" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Run Given tes test test&quot;]">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -145,7 +145,7 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <ui:GetRobotCredential TimeoutMS="{x:Null}" AssetName="UiBankCred" CacheStrategy="None" DisplayName="Get Credential" FolderPath="POCs" sap:VirtualizedContainerService.HintSize="416,175.2" sap2010:WorkflowViewState.IdRef="GetRobotCredential_1" Password="[pwd]" Username="[userName]" />
-              <uix:NUITask AgentType="AnthropicClaudeCU" DisplayName="ScreenPlay" sap:VirtualizedContainerService.HintSize="416,208.8" sap2010:WorkflowViewState.IdRef="NUITask_1" InteractionMode="HardwareEvents" ScopeIdentifier="d6decd89-cdcd-41cb-96c3-902772827596" Task="[string.Format(&quot;&quot;&quot;navigate to the url and login uisng the credentails - &quot;&quot;{0}{1}&#xD;&#xA;click on I agree to the privacy policy.&quot;, userName, pwd)]" Version="V5" />
+              <uix:NUITask AgentType="AnthropicClaudeCU" DisplayName="ScreenPlay" sap:VirtualizedContainerService.HintSize="416,208.8" sap2010:WorkflowViewState.IdRef="NUITask_1" InteractionMode="HardwareEvents" ScopeIdentifier="d6decd89-cdcd-41cb-96c3-902772827596" Task="[string.Format(&quot;&quot;&quot;navigate to the url and login uisng the credentails - &quot;&quot;{0}{1}&#xA;click on I agree to the privacy policy.&quot;, userName, pwd)]" Version="V5" />
             </Sequence>
           </ActivityAction>
         </uix:NApplicationCard.Body>
